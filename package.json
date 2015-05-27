@@ -1,0 +1,11 @@
+{
+  "name": "casrai2orcidjs",
+  "version": "0.0.1",
+  "description": "Converts CASRAI data from PURE into ORCID data",
+  "main": "casrai2orcid.js",
+  "scripts": {
+    "test": "node node_modules/jasmine-node/lib/jasmine-node/cli.js spec"
+  },
+  "author": "Will Simpson (http://orcid.org/0000-0003-4654-1403)",
+  "license": "MIT"
+}

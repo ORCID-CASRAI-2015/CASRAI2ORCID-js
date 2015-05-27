@@ -1,0 +1,32 @@
+{
+	"Funding Organization": {
+		"Name": "Dignissim PC",
+		"ID": "e57b11ea-1c9f-4720-86a1-041587e860f5",
+		"ID Type": "FundREF"
+	},
+	"Funding Award": {
+		"Amount": "152719.0 GBP",
+		"Start Date": "2015-05-01T09:18:05Z",
+		"End Date": "2015-05-25T09:18:07Z"
+	},
+	"Principal Investigator": {
+		"Salutation": "Mr",
+		"First Name": "Majd",
+		"Last Name": "Abbar",
+		"Funder Account PIN": "a0d53c76-0ea8-4996-9280-019278227e83",
+		"ID": "a0d53c76-0ea8-4996-9280-019278227e83",
+		"ID Type": "ISNI"
+	},
+	"Project": {
+		"ID": "GRNNO1234",
+		"Title": "Test"
+	},
+	"Funds Request": {
+		"Reference ID": "41190f2a-b30b-4b2a-bb9a-b8124283ae21"
+	},
+	"Lead Institution": {
+		"Name": "Qatar Computing Research Institute",
+		"ID": "90579672-8b6a-4544-8008-a7eb68880169",
+		"ID Type": "ISNI"
+	}
+}
