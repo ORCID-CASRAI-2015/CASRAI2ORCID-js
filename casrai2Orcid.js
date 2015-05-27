@@ -23,8 +23,8 @@
 			'funding-external-identifier': [
 				{
 					"funding-external-identifier-type" : "GRANT_NUMBER",
-      				"funding-external-identifier-value" : input.Project.ID,
-      				"funding-external-identifier-url" : null,
+      					"funding-external-identifier-value" : input.Project.ID,
+      					"funding-external-identifier-url" : null,
 				}
 			]
 		};
